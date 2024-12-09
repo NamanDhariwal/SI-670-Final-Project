@@ -6,16 +6,8 @@ Abstarct: Head and neck squamous cell carcinoma (HNSCC) presents significant cha
 
 Team Members:
 
-Naman Dhariwal
+Naman Dhariwal (namand@umich.edu) & Abeyankar Giridharan (abeygiri@umich.edu)
 
-Department of Statistics
-University of Michigan
+Department of Statistics,
+University of Michigan,
 Ann Arbor, MI, USA
-namand@umich.edu
-
-Abeyankar Giridharan
-
-Department of Statistics
-University of Michigan
-Ann Arbor, MI, USA
-abeygiri@umich.edu
